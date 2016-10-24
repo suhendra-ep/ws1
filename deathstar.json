@@ -2,6 +2,7 @@
 	"id": 1,
 	"name": "Death Star",
 	"identifier": "DS-1 platform",
+	"designer": "Geonosians",
 	"commander": "Grand Moff",
 	"affiliation": "galactic empire",
 	"weapon": ["superlaser", "tractor beam", "turbolaser"],
