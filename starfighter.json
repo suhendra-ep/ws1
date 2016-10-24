@@ -1,0 +1,10 @@
+{
+	"id": 1,
+	"name": "Starfighter",
+	"identifier": "T-65 x-wing",
+	"affiliation": "alliance",
+	"price": {
+    	"amount": 149999,
+		"currency": "galactic credits"
+	}
+}
