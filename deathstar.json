@@ -4,7 +4,6 @@
 	"identifier": "DS-1 platform",
 	"designer": "Geonosians",
 	"commander": "Grand Moff",
-	?? 
 	"affiliation": "galactic empire",
 	"weapon": ["superlaser", "tractor beam", "turbolaser"],
 	"powersource": "hypermatter reactor",
