@@ -16,5 +16,6 @@
 	"price": {
     	"amount": 1000000000000,
 		"currency": "galactic credits"
-	}
+	},
+	"Obsolete key": "break things"
 }
