@@ -17,5 +17,6 @@
     	"amount": 1000000000000,
 		"currency": "galactic credits"
 	},
-	"Obsolete key": "break things"
+	"Obsolete key": "break things",
+	"new key from f2 branch"
 }
